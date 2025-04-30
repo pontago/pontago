@@ -1,15 +1,17 @@
 ## Hi! I'm pontago 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-747.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 252.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 64 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -33,17 +35,17 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               4 hrs 13 mins       ████████████░░░░░░░░░░░░░   46.35 % 
-Python                   2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.90 % 
-YAML                     1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Python                   4 hrs 23 mins       █████████████████░░░░░░░░   67.10 % 
+JavaScript               1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-Vim                      9 hrs 7 mins        █████████████████████████   100.00 % 
+Vim                      6 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -63,5 +65,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2025 18:43:51 UTC
+ Last Updated on 30/04/2025 18:44:54 UTC
 <!--END_SECTION:waka-->
