@@ -1,7 +1,7 @@
 ## Hi! I'm pontago 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -17,6 +17,36 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                37 commits          ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+🌆 Daytime                26 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+🌃 Evening                48 commits          ████████░░░░░░░░░░░░░░░░░   30.57 % 
+🌙 Night                  46 commits          ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Python                   18 hrs 12 mins      ███████████████░░░░░░░░░░   61.75 % 
+Other                    5 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+JavaScript               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+TOML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+
+🔥 Editors: 
+VS Code                  27 hrs 26 mins      ███████████████████████░░   93.11 % 
+Vim                      2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+
+💻 Operating System: 
+Mac                      29 hrs 28 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -34,5 +64,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2025 18:41:07 UTC
+ Last Updated on 11/05/2025 18:41:42 UTC
 <!--END_SECTION:waka-->
