@@ -1,15 +1,13 @@
 ## Hi! I'm pontago 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-768.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 280.3 kB Used in GitHub's Storage 
- > 
-> 🏆 82 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -33,16 +31,17 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   15 hrs 43 mins      █████████████░░░░░░░░░░░░   53.97 % 
-TypeScript               12 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   41.37 % 
-JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-YAML                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+TypeScript               16 hrs 35 mins      █████████████░░░░░░░░░░░░   50.38 % 
+Python                   15 hrs 23 mins      ████████████░░░░░░░░░░░░░   46.76 % 
+YAML                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  32 hrs 55 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      29 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      32 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -62,5 +61,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2025 18:50:41 UTC
+ Last Updated on 16/07/2025 18:50:19 UTC
 <!--END_SECTION:waka-->
