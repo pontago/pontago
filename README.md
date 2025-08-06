@@ -1,15 +1,13 @@
 ## Hi! I'm pontago 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-478%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-481%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-775.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 280.7 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -63,5 +61,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2025 18:54:28 UTC
+ Last Updated on 06/08/2025 18:51:24 UTC
 <!--END_SECTION:waka-->
