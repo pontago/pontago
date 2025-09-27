@@ -33,17 +33,13 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   23 mins             ███████████████░░░░░░░░░░   60.95 % 
-TypeScript               13 mins             █████████░░░░░░░░░░░░░░░░   34.99 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-JSON with Comments       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -63,5 +59,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2025 18:43:20 UTC
+ Last Updated on 27/09/2025 18:40:55 UTC
 <!--END_SECTION:waka-->
