@@ -1,8 +1,6 @@
 ## Hi! I'm pontago 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2042%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-816.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -17,31 +15,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                59 commits          ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-🌆 Daytime                70 commits          ███████░░░░░░░░░░░░░░░░░░   27.13 % 
-🌃 Evening                66 commits          ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-🌙 Night                  63 commits          ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -59,5 +32,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 18:45:43 UTC
+ Last Updated on 03/10/2025 18:43:47 UTC
 <!--END_SECTION:waka-->
