@@ -1,13 +1,15 @@
 ## Hi! I'm pontago 👋
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-881.6%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-740%20hrs%2039%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-883.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 283.3 kB Used in GitHub's Storage 
+> 📦 283.4 kB Used in GitHub's Storage 
  > 
-> 🏆 145 Contributions in the Year 2025
+> 🏆 146 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -15,6 +17,36 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                70 commits          ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+🌆 Daytime                97 commits          ████████░░░░░░░░░░░░░░░░░   30.60 % 
+🌃 Evening                77 commits          ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+🌙 Night                  73 commits          ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+TypeScript               13 hrs 47 mins      ████████████░░░░░░░░░░░░░   49.18 % 
+Markdown                 3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+YAML                     3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Other                    2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+SQL                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+
+🔥 Editors: 
+Cursor                   21 hrs 17 mins      ███████████████████░░░░░░   75.88 % 
+Vim                      6 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+
+💻 Operating System: 
+Mac                      28 hrs 3 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -32,5 +64,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2025 18:43:14 UTC
+ Last Updated on 04/11/2025 18:47:09 UTC
 <!--END_SECTION:waka-->
