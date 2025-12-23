@@ -1,13 +1,13 @@
 ## Hi! I'm pontago 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-923%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-929%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-998.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 287.3 kB Used in GitHub's Storage 
+> 📦 287.4 kB Used in GitHub's Storage 
  > 
 > 🏆 236 Contributions in the Year 2025
  > 
@@ -33,18 +33,17 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               35 hrs 22 mins      ████████████████████████░   95.11 % 
-Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-GraphQL                  38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+TypeScript               37 hrs 3 mins       ████████████████████████░   95.71 % 
+Markdown                 36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+GraphQL                  33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+JSON                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Cursor                   37 hrs 11 mins      █████████████████████████   100.00 % 
-Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   38 hrs 43 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      37 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -64,5 +63,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2025 18:50:21 UTC
+ Last Updated on 23/12/2025 18:50:56 UTC
 <!--END_SECTION:waka-->
