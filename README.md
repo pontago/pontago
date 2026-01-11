@@ -1,7 +1,7 @@
 ## Hi! I'm pontago 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-999%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C005%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.04%20million%20lines%20of%20code-blue?style=flat)
 
@@ -9,7 +9,7 @@
 
 > 📦 286.3 kB Used in GitHub's Storage 
  > 
-> 🏆 41 Contributions in the Year 2026
+> 🏆 43 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -17,6 +17,36 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                124 commits         ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+🌆 Daytime                132 commits         ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+🌃 Evening                143 commits         ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+🌙 Night                  119 commits         ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+TypeScript               22 hrs 27 mins      █████████████████░░░░░░░░   68.87 % 
+JSON                     8 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+Markdown                 1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+🔥 Editors: 
+Cursor                   30 hrs 34 mins      ███████████████████████░░   93.77 % 
+Claude Code              2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+
+💻 Operating System: 
+Mac                      32 hrs 36 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -34,5 +64,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2026 18:48:02 UTC
+ Last Updated on 11/01/2026 18:47:44 UTC
 <!--END_SECTION:waka-->
