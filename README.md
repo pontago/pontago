@@ -1,7 +1,7 @@
 ## Hi! I'm pontago 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C047%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C049%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.04%20million%20lines%20of%20code-blue?style=flat)
 
@@ -9,7 +9,7 @@
 
 > 📦 286.5 kB Used in GitHub's Storage 
  > 
-> 🏆 106 Contributions in the Year 2026
+> 🏆 112 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -17,37 +17,6 @@
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                147 commits         ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-🌆 Daytime                132 commits         ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-🌃 Evening                156 commits         ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-🌙 Night                  133 commits         ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-TypeScript               10 hrs 36 mins      ██████████████████░░░░░░░   70.36 % 
-Markdown                 2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-
-🔥 Editors: 
-Cursor                   13 hrs 50 mins      ███████████████████████░░   91.80 % 
-Claude Code              1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Neovim                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-
-💻 Operating System: 
-Mac                      15 hrs 4 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -65,5 +34,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 24/01/2026 18:49:36 UTC
+ Last Updated on 25/01/2026 18:49:24 UTC
 <!--END_SECTION:waka-->
