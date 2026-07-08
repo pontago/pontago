@@ -1,15 +1,15 @@
 ## Hi! I'm pontago 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C928%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C934%20hrs%206%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.08%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 337.7 kB Used in GitHub's Storage 
+> 📦 340.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,786 Contributions in the Year 2026
+> 🏆 1,800 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -20,10 +20,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5414 commits        ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-🌆 Daytime                5817 commits        ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-🌃 Evening                6548 commits        ███████░░░░░░░░░░░░░░░░░░   26.94 % 
-🌙 Night                  6531 commits        ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+🌞 Morning                5414 commits        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+🌆 Daytime                5822 commits        ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+🌃 Evening                6553 commits        ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+🌙 Night                  6535 commits        ███████░░░░░░░░░░░░░░░░░░   26.87 % 
 ```
 
 
@@ -33,20 +33,20 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Dart                     25 hrs 57 mins      ███████████████░░░░░░░░░░   58.37 % 
-TypeScript               6 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Markdown                 5 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Other                    2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-JSON                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Dart                     26 hrs 17 mins      ██████████████░░░░░░░░░░░   55.43 % 
+TypeScript               10 hrs 4 mins       █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Markdown                 4 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Other                    2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+JSON                     2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 🔥 Editors: 
-Antigravity IDE          26 hrs 36 mins      ███████████████░░░░░░░░░░   59.83 % 
-Claude Code              17 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   39.70 % 
-Neovim                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Antigravity IDE          27 hrs 32 mins      ███████████████░░░░░░░░░░   58.09 % 
+Claude Code              19 hrs 34 mins      ██████████░░░░░░░░░░░░░░░   41.29 % 
+Neovim                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Mac                      44 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      47 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -66,5 +66,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2026 20:23:24 UTC
+ Last Updated on 08/07/2026 20:03:31 UTC
 <!--END_SECTION:waka-->
