@@ -1,7 +1,7 @@
 ## Hi! I'm pontago 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C097%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C094%20hrs%2056%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.89%20million%20lines%20of%20code-blue?style=flat)
 
@@ -33,20 +33,20 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Dart                     27 hrs 30 mins      █████████████░░░░░░░░░░░░   52.36 % 
-TypeScript               13 hrs 57 mins      ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-Markdown                 6 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-JSON                     1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Other                    1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Dart                     22 hrs 17 mins      ████████████░░░░░░░░░░░░░   46.03 % 
+TypeScript               12 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+Markdown                 8 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Other                    2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+JSON                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🔥 Editors: 
-Antigravity IDE          27 hrs 47 mins      █████████████░░░░░░░░░░░░   52.89 % 
-Claude Code              23 hrs 56 mins      ███████████░░░░░░░░░░░░░░   45.58 % 
-VS Code                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Neovim                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Antigravity IDE          27 hrs 45 mins      ██████████████░░░░░░░░░░░   57.29 % 
+Claude Code              19 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   40.94 % 
+VS Code                  40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Neovim                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Mac                      52 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      48 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -66,5 +66,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:45:21 UTC
+ Last Updated on 26/07/2026 19:46:50 UTC
 <!--END_SECTION:waka-->
