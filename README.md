@@ -1,9 +1,9 @@
 ## Hi! I'm pontago 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C344%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C355%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-787%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-797%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.10%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,45 +35,45 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Dart                     11 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   36.08 % 
-Markdown                 6 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-TypeScript               4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-YAML                     2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Bash                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Dart                     14 hrs 36 mins      ███████████░░░░░░░░░░░░░░   44.46 % 
+Markdown                 7 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+TypeScript               5 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Other                    1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+SQL                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 16 mins      ██████████████░░░░░░░░░░░   54.34 % 
-VS Code                  9 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.02 % 
-Codex Vscode             4 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Claude Code              19 hrs 12 mins      ███████████████░░░░░░░░░░   58.43 % 
+VS Code                  8 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+Codex Vscode             4 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
 
 💻 Operating System: 
-Mac                      31 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 42 mins (87.22%)
+⏱ AI Coding Time: 28 hrs 50 mins (87.76%)
 
-✍️ 6,651 lines written by AI, 26 lines written by hand (99.61% AI-written)
+✍️ 10,605 lines written by AI, 9 lines written by hand (99.92% AI-written)
 
-🔤 11,260,706 Input Tokens, 1,707,412 Output Tokens
+🔤 13,099,064 Input Tokens, 2,240,205 Output Tokens
 
-💵 $375.00 Estimated AI Cost This Week
+💵 $435.27 Estimated AI Cost This Week
 
-🧠 97 AI Sessions, 363 AI Prompts
+🧠 106 AI Sessions, 380 AI Prompts
 
-Opus                     4,415 lines         ████████████████░░░░░░░░░   63.99 % 
-GPT                      2,081 lines         ████████░░░░░░░░░░░░░░░░░   30.16 % 
-Claude                   404 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Opus                     8,006 lines         ██████████████████░░░░░░░   72.81 % 
+GPT                      2,081 lines         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Claude                   908 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.61% of written lines came from AI
-📚 Verbose Prompter — average 4,797 characters per prompt
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 4,600 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.4% of changed lines were hand-edited
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -93,5 +93,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 22:33:35 UTC
+ Last Updated on 01/10/2026 22:57:59 UTC
 <!--END_SECTION:waka-->
