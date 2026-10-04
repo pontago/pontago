@@ -1,9 +1,9 @@
 ## Hi! I'm pontago 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C368%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C371%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-809%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-812%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.10%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,45 +35,45 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Dart                     19 hrs 53 mins      █████████████░░░░░░░░░░░░   52.09 % 
-Markdown                 7 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-TypeScript               4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Text                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Other                    1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Dart                     16 hrs 23 mins      ████████████░░░░░░░░░░░░░   46.19 % 
+Markdown                 7 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+TypeScript               4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Text                     1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 39 mins      ████████████████░░░░░░░░░   64.59 % 
-VS Code                  8 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-Codex Vscode             5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Claude Code              25 hrs 43 mins      ██████████████████░░░░░░░   72.50 % 
+VS Code                  6 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Codex Vscode             3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 
 💻 Operating System: 
-Mac                      38 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 37 mins (90.7%)
+⏱ AI Coding Time: 31 hrs 39 mins (89.18%)
 
-✍️ 13,610 lines written by AI, 8 lines written by hand (99.94% AI-written)
+✍️ 14,587 lines written by AI, 10 lines written by hand (99.93% AI-written)
 
-🔤 16,136,502 Input Tokens, 2,737,765 Output Tokens
+🔤 16,140,874 Input Tokens, 2,708,179 Output Tokens
 
-💵 $468.34 Estimated AI Cost This Week
+💵 $457.14 Estimated AI Cost This Week
 
-🧠 137 AI Sessions, 470 AI Prompts
+🧠 121 AI Sessions, 390 AI Prompts
 
-Opus                     10,496 lines        ███████████████████░░░░░░   75.05 % 
-GPT                      2,383 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Claude                   1,107 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     12,818 lines        █████████████████████░░░░   85.49 % 
+Claude                   1,273 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+GPT                      903 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 4,091 characters per prompt
+🤖 AI-Driven — 99.93% of written lines came from AI
+📚 Verbose Prompter — average 2,477 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -93,5 +93,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 21:37:27 UTC
+ Last Updated on 04/10/2026 21:48:14 UTC
 <!--END_SECTION:waka-->
