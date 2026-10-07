@@ -1,9 +1,9 @@
 ## Hi! I'm pontago 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C376%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C379%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-816%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-819%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.46%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,45 +35,45 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Dart                     16 hrs 54 mins      ████████████░░░░░░░░░░░░░   46.36 % 
-Markdown                 5 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-TypeScript               4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Text                     2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Dart                     15 hrs 12 mins      ████████████░░░░░░░░░░░░░   48.28 % 
+Markdown                 4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+TypeScript               4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Text                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 11 mins      █████████████████░░░░░░░░   66.35 % 
-VS Code                  7 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Codex Vscode             4 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Claude Code              19 hrs 58 mins      ████████████████░░░░░░░░░   63.41 % 
+VS Code                  6 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+Codex Vscode             5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
 
 💻 Operating System: 
-Mac                      36 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 46 mins (87.15%)
+⏱ AI Coding Time: 27 hrs 24 mins (87.02%)
 
-✍️ 13,454 lines written by AI, 12 lines written by hand (99.91% AI-written)
+✍️ 13,025 lines written by AI, 12 lines written by hand (99.91% AI-written)
 
-🔤 17,306,272 Input Tokens, 2,616,301 Output Tokens
+🔤 15,392,396 Input Tokens, 2,231,906 Output Tokens
 
-💵 $456.22 Estimated AI Cost This Week
+💵 $426.06 Estimated AI Cost This Week
 
-🧠 133 AI Sessions, 422 AI Prompts
+🧠 122 AI Sessions, 381 AI Prompts
 
-Opus                     12,391 lines        █████████████████████░░░░   83.51 % 
-Claude                   1,514 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-GPT                      933 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Opus                     11,656 lines        ████████████████████░░░░░   79.99 % 
+Claude                   1,466 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+GPT                      1,449 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.91% of written lines came from AI
-📚 Verbose Prompter — average 3,152 characters per prompt
+📚 Verbose Prompter — average 3,451 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.15% of changed lines were hand-edited
+🚀 High AI Trust — 0.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -93,5 +93,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 22:50:30 UTC
+ Last Updated on 07/10/2026 23:22:15 UTC
 <!--END_SECTION:waka-->
