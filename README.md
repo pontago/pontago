@@ -1,7 +1,7 @@
 ## Hi! I'm pontago 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C379%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C379%20hrs%2059%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-819%20hrs%2031%20mins-blue?style=flat)
 
@@ -35,45 +35,46 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Dart                     15 hrs 12 mins      ████████████░░░░░░░░░░░░░   48.28 % 
-Markdown                 4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-TypeScript               4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Text                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Dart                     11 hrs 24 mins      ███████████░░░░░░░░░░░░░░   44.15 % 
+Markdown                 3 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+TypeScript               3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Text                     2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+JSON                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 58 mins      ████████████████░░░░░░░░░   63.41 % 
-VS Code                  6 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-Codex Vscode             5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Claude Code              14 hrs 42 mins      ██████████████░░░░░░░░░░░   56.94 % 
+VS Code                  5 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+Codex Vscode             5 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Neovim                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Mac                      31 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 24 mins (87.02%)
+⏱ AI Coding Time: 21 hrs 58 mins (85.04%)
 
-✍️ 13,025 lines written by AI, 12 lines written by hand (99.91% AI-written)
+✍️ 8,677 lines written by AI, 12 lines written by hand (99.86% AI-written)
 
-🔤 15,392,396 Input Tokens, 2,231,906 Output Tokens
+🔤 12,677,315 Input Tokens, 1,609,255 Output Tokens
 
-💵 $426.06 Estimated AI Cost This Week
+💵 $377.61 Estimated AI Cost This Week
 
-🧠 122 AI Sessions, 381 AI Prompts
+🧠 108 AI Sessions, 332 AI Prompts
 
-Opus                     11,656 lines        ████████████████████░░░░░   79.99 % 
-Claude                   1,466 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-GPT                      1,449 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Opus                     9,216 lines         ███████████████████░░░░░░   76.81 % 
+GPT                      1,449 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Claude                   1,334 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📚 Verbose Prompter — average 3,451 characters per prompt
+🤖 AI-Driven — 99.86% of written lines came from AI
+📚 Verbose Prompter — average 3,937 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.16% of changed lines were hand-edited
+🚀 High AI Trust — 0.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -93,5 +94,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 23:22:15 UTC
+ Last Updated on 08/10/2026 23:36:27 UTC
 <!--END_SECTION:waka-->
