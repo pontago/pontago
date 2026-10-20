@@ -1,9 +1,9 @@
 ## Hi! I'm pontago 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C389%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C390%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-829%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-831%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.41%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,42 +35,42 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 4 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.03 % 
-Dart                     4 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.96 % 
-Swift                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-TypeScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Markdown                 4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   41.52 % 
+Dart                     4 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.78 % 
+Swift                    56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+TypeScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 41 mins       ███████████████████████░░   90.49 % 
-VS Code                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Codex Vscode             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Claude Code              8 hrs 58 mins       ███████████████████████░░   90.74 % 
+VS Code                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Codex Vscode             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      9 hrs 36 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 17 mins (96.6%)
+⏱ AI Coding Time: 9 hrs 33 mins (96.68%)
 
-✍️ 4,611 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,667 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,455,645 Input Tokens, 635,801 Output Tokens
+🔤 3,701,260 Input Tokens, 663,590 Output Tokens
 
-💵 $71.75 Estimated AI Cost This Week
+💵 $75.03 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 73 AI Prompts
+🧠 19 AI Sessions, 76 AI Prompts
 
-Opus                     4,017 lines         ██████████████████████░░░   86.44 % 
-Claude                   630 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Opus                     4,052 lines         ██████████████████████░░░   86.16 % 
+Claude                   651 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 170 characters per prompt
+📝 Concise Prompter — average 164 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -92,5 +92,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 22:40:31 UTC
+ Last Updated on 20/10/2026 21:54:23 UTC
 <!--END_SECTION:waka-->
