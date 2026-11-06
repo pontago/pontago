@@ -1,9 +1,9 @@
 ## Hi! I'm pontago 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C428%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C428%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-867%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-867%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.41%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,45 +35,44 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 4 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.65 % 
-Swift                    3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-Other                    1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Objective-C              1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-YAML                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Markdown                 2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+Swift                    2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+Objective-C              1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 53 mins      ████████████████████░░░░░   78.99 % 
-Neovim                   1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-VS Code                  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Android Studio           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Claude Code              8 hrs 36 mins       ██████████████████████░░░   89.99 % 
+VS Code                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Neovim                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Mac                      13 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 46 mins (92.61%)
+⏱ AI Coding Time: 9 hrs 10 mins (95.82%)
 
-✍️ 1,199 lines written by AI, 2 lines written by hand (99.83% AI-written)
+✍️ 887 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,100,781 Input Tokens, 773,489 Output Tokens
+🔤 2,428,515 Input Tokens, 579,562 Output Tokens
 
-💵 $86.44 Estimated AI Cost This Week
+💵 $75.55 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 162 AI Prompts
+🧠 20 AI Sessions, 129 AI Prompts
 
-Opus                     3,407 lines         █████████████████████░░░░   83.67 % 
-Claude                   542 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-GPT                      123 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Opus                     3,130 lines         █████████████████████░░░░   85.29 % 
+Claude                   540 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.83% of written lines came from AI
-📝 Concise Prompter — average 271 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 172 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.27% of changed lines were hand-edited
+🚀 High AI Trust — 1.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -93,5 +92,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2026 23:54:30 UTC
+ Last Updated on 06/11/2026 23:26:41 UTC
 <!--END_SECTION:waka-->
