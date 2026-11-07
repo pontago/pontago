@@ -11,7 +11,7 @@
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2,927 Contributions in the Year 2026
+> 🏆 2,930 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -23,9 +23,9 @@
 
 ```text
 🌞 Morning                10921 commits       ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-🌆 Daytime                11682 commits       ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+🌆 Daytime                11682 commits       ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
 🌃 Evening                11778 commits       ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-🌙 Night                  12393 commits       ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+🌙 Night                  12396 commits       ███████░░░░░░░░░░░░░░░░░░   26.50 % 
 ```
 
 
@@ -35,44 +35,44 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.52 % 
-Swift                    2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-Objective-C              1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Markdown                 2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.72 % 
+Swift                    58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Bash                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Other                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 36 mins       ██████████████████████░░░   89.99 % 
-VS Code                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Neovim                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Claude Code              5 hrs 23 mins       ██████████████████████░░░   86.19 % 
+VS Code                  38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Neovim                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      9 hrs 34 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 10 mins (95.82%)
+⏱ AI Coding Time: 5 hrs 57 mins (95.11%)
 
-✍️ 887 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 415 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,428,515 Input Tokens, 579,562 Output Tokens
+🔤 1,810,875 Input Tokens, 392,874 Output Tokens
 
-💵 $75.55 Estimated AI Cost This Week
+💵 $61.18 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 129 AI Prompts
+🧠 19 AI Sessions, 100 AI Prompts
 
-Opus                     3,130 lines         █████████████████████░░░░   85.29 % 
-Claude                   540 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Opus                     2,727 lines         █████████████████████░░░░   84.45 % 
+Claude                   502 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 172 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.58% of changed lines were hand-edited
+📝 Concise Prompter — average 114 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 3.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -92,5 +92,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2026 23:26:41 UTC
+ Last Updated on 07/11/2026 22:11:32 UTC
 <!--END_SECTION:waka-->
