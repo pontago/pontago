@@ -1,9 +1,9 @@
 ## Hi! I'm pontago 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C455%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C455%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-892%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-892%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.00%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,44 +35,44 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 8 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-TypeScript               7 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-Astro                    2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-JSON                     2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Bash                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Markdown                 8 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+TypeScript               7 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+Astro                    2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+JSON                     2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Bash                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 7 mins       ██████████████████░░░░░░░   70.30 % 
-VS Code                  5 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-Codex Vscode             1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Neovim                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Claude Code              19 hrs 53 mins      ██████████████████░░░░░░░   70.75 % 
+VS Code                  5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Codex Vscode             1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Neovim                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 💻 Operating System: 
-Mac                      28 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 34 mins (85.83%)
+⏱ AI Coding Time: 23 hrs 59 mins (85.31%)
 
-✍️ 13,326 lines written by AI, 5 lines written by hand (99.96% AI-written)
+✍️ 13,041 lines written by AI, 5 lines written by hand (99.96% AI-written)
 
-🔤 6,923,070 Input Tokens, 1,719,400 Output Tokens
+🔤 6,649,297 Input Tokens, 1,665,851 Output Tokens
 
-💵 $179.05 Estimated AI Cost This Week
+💵 $177.97 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 224 AI Prompts
+🧠 25 AI Sessions, 216 AI Prompts
 
-Opus                     11,774 lines        █████████████████████░░░░   84.39 % 
-GPT                      1,417 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Claude                   761 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Opus                     11,770 lines        █████████████████████░░░░   84.54 % 
+GPT                      1,391 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Claude                   761 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.96% of written lines came from AI
-📝 Concise Prompter — average 347 characters per prompt
+📝 Concise Prompter — average 334 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.16% of changed lines were hand-edited
+🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -92,5 +92,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2026 22:45:57 UTC
+ Last Updated on 15/11/2026 23:07:26 UTC
 <!--END_SECTION:waka-->
