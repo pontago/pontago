@@ -36,15 +36,15 @@
 
 💬 Programming Languages: 
 Markdown                 8 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.58 % 
-TypeScript               7 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+TypeScript               7 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
 Astro                    2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-JSON                     2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+JSON                     2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 Bash                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 53 mins      ██████████████████░░░░░░░   70.75 % 
-VS Code                  5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Codex Vscode             1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Claude Code              19 hrs 53 mins      ██████████████████░░░░░░░   70.74 % 
+VS Code                  5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Codex Vscode             1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 Neovim                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 💻 Operating System: 
@@ -58,11 +58,11 @@ Mac                      28 hrs 7 mins       ███████████�
 
 ✍️ 13,041 lines written by AI, 5 lines written by hand (99.96% AI-written)
 
-🔤 6,649,297 Input Tokens, 1,665,851 Output Tokens
+🔤 6,688,065 Input Tokens, 1,667,333 Output Tokens
 
-💵 $177.97 Estimated AI Cost This Week
+💵 $178.10 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 216 AI Prompts
+🧠 26 AI Sessions, 218 AI Prompts
 
 Opus                     11,770 lines        █████████████████████░░░░   84.54 % 
 GPT                      1,391 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
@@ -70,8 +70,8 @@ Claude                   761 lines           █░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.96% of written lines came from AI
-📝 Concise Prompter — average 334 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📝 Concise Prompter — average 342 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
@@ -92,5 +92,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2026 23:07:26 UTC
+ Last Updated on 17/11/2026 02:01:55 UTC
 <!--END_SECTION:waka-->
