@@ -1,11 +1,11 @@
 ## Hi! I'm pontago 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C455%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C457%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-892%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-894%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.06%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.77%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -22,10 +22,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                10980 commits       ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-🌆 Daytime                11804 commits       ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-🌃 Evening                11874 commits       ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-🌙 Night                  12521 commits       ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+🌞 Morning                11130 commits       ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
+🌆 Daytime                12139 commits       ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+🌃 Evening                12094 commits       ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+🌙 Night                  12721 commits       ███████░░░░░░░░░░░░░░░░░░   26.46 % 
 ```
 
 
@@ -35,43 +35,43 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   32.62 % 
-Markdown                 1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-YAML                     1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-JSON                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Astro                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+TypeScript               2 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   40.57 % 
+Astro                    1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Other                    56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 8 mins        ████████████████████░░░░░   79.82 % 
-VS Code                  1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Codex Vscode             21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Claude Code              5 hrs 7 mins        ██████████████████░░░░░░░   73.75 % 
+VS Code                  1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Codex Vscode             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 💻 Operating System: 
-Mac                      10 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      6 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 55 mins (87.51%)
+⏱ AI Coding Time: 5 hrs 48 mins (83.57%)
 
-✍️ 2,702 lines written by AI, 3 lines written by hand (99.89% AI-written)
+✍️ 3,940 lines written by AI, 3 lines written by hand (99.92% AI-written)
 
-🔤 1,921,381 Input Tokens, 479,738 Output Tokens
+🔤 1,241,206 Input Tokens, 359,791 Output Tokens
 
-💵 $46.14 Estimated AI Cost This Week
+💵 $28.46 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 92 AI Prompts
+🧠 12 AI Sessions, 59 AI Prompts
 
-Opus                     3,046 lines         █████████████████████░░░░   85.88 % 
-Claude                   404 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-GPT                      97 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Opus                     4,017 lines         ████████████████████████░   96.33 % 
+Claude                   153 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📝 Concise Prompter — average 244 characters per prompt
+🤖 AI-Driven — 99.92% of written lines came from AI
+📄 Detailed Prompter — average 558 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.1% of changed lines were hand-edited
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -91,5 +91,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pontago/pontago/main/assets/bar_graph.png)
 
 
- Last Updated on 19/11/2026 00:42:02 UTC
+ Last Updated on 20/11/2026 00:51:55 UTC
 <!--END_SECTION:waka-->
